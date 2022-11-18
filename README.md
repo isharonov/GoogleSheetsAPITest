@@ -1,4 +1,4 @@
-This is a test example how Google Sheets API can work. Based on [YouTube lesson](https://www.youtube.com/watch?v=K6Vcfm7TA5U).
+Google Sheets API test case. Based on [YouTube lesson](https://www.youtube.com/watch?v=K6Vcfm7TA5U).
 
 ## Steps
 
